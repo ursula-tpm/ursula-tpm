@@ -1,7 +1,7 @@
 
 # Hi, I'm Ursula 👋
 
-Technical Product Manager | AI | DATA | DEVOPS | Based in Lagos 🇳🇬
+Technical Product Manager | AI | DATA | DevOps | Based in Lagos 🇳🇬
 
 ## What I do
 - Ship products at the intersection of tech and user needs
